@@ -1,0 +1,591 @@
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 02:08:51:546 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 02:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 02:18:51:620 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 02:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 02:28:51:515 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 02:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 02:38:51:508 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 02:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 02:48:51:551 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 02:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 02:58:51:596 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 03:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 03:08:51:589 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 03:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 03:18:51:588 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 03:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 03:28:51:545 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 03:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 03:38:51:510 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 03:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 03:48:51:688 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 03:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 03:58:51:607 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 04:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 04:08:51:687 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 04:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 04:18:51:621 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 04:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 04:28:51:730 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 04:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 04:38:51:642 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 04:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 04:48:51:670 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 04:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 04:58:51:658 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 05:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 05:08:51:836 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 05:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 05:18:51:607 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 05:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 05:28:51:498 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 05:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 05:38:51:543 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 05:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 05:48:51:643 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 05:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 05:58:51:820 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 06:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 06:08:51:611 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 06:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 06:18:51:528 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 06:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 06:28:51:724 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 06:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 06:38:51:538 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 06:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 06:48:51:604 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 06:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 06:58:51:507 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 07:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 07:08:51:608 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 07:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 07:18:51:568 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 07:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 07:28:51:514 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 07:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 07:38:51:496 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 07:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 07:48:51:578 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 07:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 07:58:51:476 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 08:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 08:08:51:550 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 08:18:51 CEST 2018
+08:11:34,981 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - Elapsed period: Wed Mar 21 08:17:29 CET 2018
+08:11:34,981 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - Elapsed period: Wed Mar 21 08:17:29 CET 2018
+08:11:34,983 |-INFO in c.q.l.co.rolling.helper.RenameUtil - Renaming file [d:/temp_dev/log/p01f/log/p01f_wl11_platea_internet_apps111.log] to [d:/temp_dev/log/p01f/log/p01f_wl11_platea_internet_apps111.log4833879505889039.tmp]
+08:11:34,983 |-INFO in c.q.l.co.rolling.helper.RenameUtil - Renaming file [d:/temp_dev/log/p01f/log/p01f_wl11_platea_internet_apps111.log] to [d:/temp_dev/log/p01f/log/p01f_wl11_platea_internet_apps111.log4833879505889039.tmp]
+08:11:34,998 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - periodsElapsed = 4
+08:11:34,998 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - periodsElapsed = 4
+08:11:35,000 |-WARN in ch.qos.logback.core.rolling.helper.Compressor - The target compressed file named [d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-21.log.gz] exist already. Aborting file compression.
+08:11:35,000 |-WARN in ch.qos.logback.core.rolling.helper.Compressor - The target compressed file named [d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-21.log.gz] exist already. Aborting file compression.
+08:11:35,001 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - deleting d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-15.log.gz
+08:11:35,001 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - deleting d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-15.log.gz
+08:11:35,002 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - deleting d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-14.log.gz
+08:11:35,002 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - deleting d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-14.log.gz
+08:11:35,003 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - deleting d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-13.log.gz
+08:11:35,003 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - deleting d:/temp_dev/log/p01f/log/rolled/p01f_wl11_platea_internet_apps111_2018-03-13.log.gz
+08:11:34.981 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - The execution of 'null' operation was SUCCESSFUL returning Collection of 5 objects
+08:11:35.006 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the service hierarchy
+Mar 26, 2018 8:11:35 AM com.vaadin.server.VaadinServlet serveStaticResourcesInVAADIN
+INFO: Requested resource [/VAADIN/themes/p01/favicon.ico] not found from filesystem or through class loader. Add widgetset and/or theme JAR to your classpath or add files to WebContent/VAADIN folder.
+08:11:35.626 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc015a4c07e8d91b67892669587f0d69d64b1f]: Evolución de la Infraestructura
+	- [p01flcbp15a4c06861b1b678926b7791d1c39fa5cf]: Consultoría
+		- [p01flcf15a5a9ba42b1b67892632cbfe5e4bb3085e]: Apoyo a la Oficina Técnica de EJIE		- [p01flcm15a5a9cbb781b6789262e6a3afe9e8d730d]: Consultoría Técnica		- [p01flcl15a5a9d98f61b6789265de3ae9a0e725a62]: Consultoría Funcional		- [p01flcu15a5a9e581a1b678926a6e7612663c533d3]: Iniciación de Proyectos
+	- [p01flch15a4c0594f51b67892635e2741b91d5e881]: Operación de Negocio
+		- [p01flc515a4c197d771b67892692c263fd04ff44aa]: Mantenimiento Correctivo		- [p01flca15a4c1b5c3a1b678926d2357cccd58c1256]: Soporte técnico a la infraestructura (2º nivel)		- [p01flcf15a4c1d10271b678926a794cff20d0f79c2]: Gestión y resolución de incidencias (CAU)		- [p01flcf15a4c1dc01f1b6789268bba484a96885b68]: Gestión de cambios y de la configuración
+			- [p01flc715a5ab90dfe1b678926a884018994ba9b19]: Gestión de peticiones de cambio (RFC's)			- [p01flct15a5aba15b31b678926cf114692918f959a]: Gestión de la configuración del producto			- [p01flcb15a5abb087d1b678926b59658089f809406]: Despliegues en entornos de explotación		- [p01flcp15a4c200b8e1b6789263a523f6ada89e7dd]: Participación en proyectos de infraestructura
+			- [p01flcx15a613565301bd7a1228bc3b6712f13625b]: PIF: Plataforma intercambio de ficheros			- [p01flcz15a5abcc55b1b678926510e3590ff7b6b79]: Plataforma de base (Sistema operativo, virtualización, etc)			- [p01flcc15a5ac92fdd1b678926e2df71c9acc6e97c]: Servidores Web			- [p01flcl15a5ac9ce161b6789264076d0090ab33a38]: Servidor de aplicaciones			- [p01flc315a5aca9d3f1b678926442615b4e186fe50]: Base de Datos		- [p01flcbf15a4c20f0961b678926d52550c29779c11]: Calidad
+			- [p01flcg15a5acdf3e81b678926b95f655a737d3656]: Pruebas Técnicas			- [p01flcu15a5aceab301b678926adc19c384c11a687]: Pruebas Funcionales			- [p01flc615a5acfbb4b1b678926c7c5a47a9ca99b3b]: Cargas / Migraciones de datos para mejora de la calidad de la información
+
+08:11:35.626 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the product hierarchy
+08:11:36.902 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc015a5b994f8b1b6789269b81b54310b765a7]: Entidades Financieras
+		- [p01flck15cc4f913a019d99a893c35bde1a8b7fd9e]: Bankia		- [p01flc315cc4faec5319d99a8922b92772aa145f89]: Bankoa		- [p01flcp15cc4fb5ffe19d99a89fe16039f27e2054d]: Banco Popular		- [p01flc715cc4fbe0a719d99a893edf8fa7ae04ca4c]: Caixabank		- [p01flcz15a5bcae9a11b678926f19a04db80f391bb]: BBVA
+			- [p01flc715a5bcf65ed1b6789265564a88b55a8d243]: Pago			- [p01flct15a5bcfc24b1b6789268c289e75a809eed0]: Cargo en cuenta			- [p01flcd15a5bd056fd1b6789269f355fe2cb92272c]: Consulta estado de pago			- [p01flcb15a5bd0be781b6789264b94732bc9bc72f7]: Titularidad de la cuenta corriente		- [p01flco15a5bcb8f941b678926d3f038ee8935d79d]: Laboral
+			- [p01flcy15a5bd210031b6789261ac1ef7acf54f422]: Pago			- [p01flca15a5bd26f981b678926702cc3c0b98bad6c]: Cargo en cuenta			- [p01flc815a5bd57b5a1b678926a6bea21a3efe2633]: Consulta estado de pago			- [p01flc415a5bd631f91b6789265bee490f0c53a312]: Titularidad de cuenta corriente		- [p01flc815a5bcbf75c1b6789262db6d3d5bf5bd7b0]: Kutxabank
+			- [p01flcq15a5bd6ee611b678926c85b48b7c20d45cb]: Pago			- [p01flcd515a5bd743621b678926f3b3ee137d0aa27]: Cargo en cuenta			- [p01flco15a5bd7ce831b678926bdc683d11463c46b]: Consulta estado de pago			- [p01flck15a5bd826211b678926e3eb926ea10da672]: Titularidad de cuenta corriente		- [p01flco15a5bcc68a81b6789266531b69014e91374]: Santander
+			- [p01flch15a5bd8baa11b678926e646e317b0cf9bc3]: Pago			- [p01flcc15a5bd919881b6789262013d266ae213190]: Cargo en cuenta			- [p01flcd15a5bd982781b67892657e0e351ad771aef]: Consulta estado de pago			- [p01flck15a5bd9e93b1b678926ba3180e8adcbc539]: Titularidad de cuenta corriente		- [p01flcy15a5bccc7eb1b678926722a02b19b434a89]: Sabadell-Gipuzkoano
+			- [p01flc015a5bda746b1b678926a34957fc425f7399]: Pago			- [p01flc615a5bdac9721b678926cd45e0300dc775ce]: Cargo en cuenta			- [p01flcn15a5bdb231c1b678926f36da4441bdaec50]: Consulta estado de pago			- [p01flcm15a5bdb92111b678926a0a5a74b41ba483c]: Titularidad de cuenta corriente		- [p01flco15a6673d1eb1d3a66f6e8ec8d3f56e37346]: Caja Rural de Navarra
+			- [p01flcb15a6677b87c1d3a66f61d14b73ced6441ae]: Pago			- [p01flcc15a6678fcd21d3a66f67bf70eea91e88df0]: Cargo en cuenta			- [p01flcn15a667a54731d3a66f622a52bfcbf88621d]: Consulta estado de pago			- [p01flci15a667b04831d3a66f649144976f03769ba]: Titularidad de cuenta corriente
+	- [p01flcd15a5bdc42371b67892669b543325bf44489]: Gestión de la Plataforma
+		- [p01flch15a5bdd5bf01b678926410a5e3131bc4c5e]: Framework común		- [p01flc715a5bddada31b678926e80405f302456b9c]: Gestión de usuarios/as
+			- [p01flc115a5be1273b1b678926158eaadef2f9a7ad]: Administración			- [p01flcu15a5be195ad1b6789265e63a9538467e957]: Login			- [p01flcx15a5be20c261b6789264c7ae764b3c94d28]: Notificación		- [p01flcb15a5bde48891b678926aab92c8eea63780e]: Configuración de Administraciones y sufijos		- [p01flct15a5bde95de1b67892640c435e8797a1583]: Configuración de Entidades Financieras		- [p01flcr15a5bdf48ae1b67892610a1755e7f65ac39]: Acceso a información de estadísticas de uso		- [p01flc715a5bdfdb4f1b678926e5494ae12ad43409]: Generación de liquidaciones		- [p01flch15a5be06b9b1b678926961127c67bb52c08]: Integración con Certificación de números de cuenta
+	- [p01flcg15a5b7de9641b678926a6f4835e7fa377ed]: Administraciones
+		- [p01flcj15a5b7f79af1b6789268530bdc43077b9e0]: Gobierno Vasco
+			- [p01flch15f52590ced5d24b581f78e15db65ec5386]: Cultura			- [p01flc915f0a53b8dc5d24b58160256ba202483156]: Sanidad			- [p01flc515c395344c1187c5e81ab1f158c2c177a89]: Industria			- [p01flck15c3953f9f7187c5e819196a36b3144c804]: HABE			- [p01flcx15c3954b83d187c5e81e6fdee67b4834abc]: Juventud			- [p01flcx15a5b802f121b6789268d6e9427878df4be]: Integración con backend SIPCA			- [p01flco15a5b80bc701b67892643b6aa6107f482ce]: IVAP			- [p01flc815a5b813fbe1b6789262eb735cbaf22658c]: Educación			- [p01flc915d55440e1419d99a8927c94c5339cb18f5]: Justicia			- [p01flc615d55446c5819d99a89fa955909b21e3bc0]: Turismo		- [p01flcl15cc50c4cd119d99a89bc1f78b17d756b49]: Osakidetza		- [p01flcy15f0a52aeeb5d24b5812438fc90441d12f0]: HAZI		- [p01flc215c39438123187c5e8174b12d5c5c2da102]: Biocruces		- [p01flcf15c39447962187c5e81b1b679d4e17afe6e]: Itzarri		- [p01flct15c816531e6187c5e81a65692a5c60b9aa6]: IZENPE		- [p01flcvb15a5b81f9951b6789263329844b87daec9]: Entidades locales de Araba
+			- [p01flct15c39517061187c5e81111e4b2de9140971]: Ayuntamiento de Vitoria-Gasteiz		- [p01flc815a5b827fb91b678926b994a2cae5cb98a8]: Entidades locales de Bizkaia
+			- [p01flcl15c394f4655187c5e81116c7d8a65f1f3ff]: Ayuntamiento de Bilbao		- [p01flclr15a5b82eabe1b6789264482b42798b4404]: Entidades locales de Gipuzkoa
+			- [p01flcv15c39504082187c5e814450e4b77ac4147d]: Ayuntamiento de Irun		- [p01flcr15a5b8355f71b678926b0b035c2b08abf15]: Diputación Foral de Bizkaia		- [p01flcu15a5b83f2ac1b67892617d8a61f5aa1b628]: Diputación Foral de Araba		- [p01flc315a5b8460571b67892646a434ec8174fbfd]: Diputación Foral de Gipuzkoa
+			- [p01flcp15c394c288e187c5e81f973d72a237dc841]: Lurraldebus		- [p01flcb15a5b84c7681b6789264128f84aaab705f0]: EHU / UPV		- [p01flcx15a5b8532051b6789267baddb73f11677bb]: Otras integraciones
+	- [p01flcm15a5b7a88191b678926f47842e6a1056be5]: Certificación de titularidad de números de cuenta
+		- [p01flcq15a5b7b1db41b6789268947027b2285baf5]: Nucleo / API		- [p01flcv15a5b7bedcb1b678926d18178de4c84e771]: Interfaz de usuario/a de consulta < gestión
+	- [p01flcm15a5b87c8711b678926d9d2f3f41b5275c4]: Interfaz de usuario/a de pago
+		- [p01flcgy15a5b9485c61b678926a04857bd301557d]: Cliente Web		- [p01flc015a5b94fc701b6789265936fdbffa130ae1]: Cliente Web responsive		- [p01flc415a5b95f7aa1b6789264c179b468ce567c4]: Pago en movilidad		- [p01flca15a5b9688ce1b678926f0fe064c43c8a1bb]: Pago en ventanilla para conceptos que no disponen de aplicación propia
+	- [p01flcx15aacfd119b1c906fbdad6cb5b456778828]: Platea Interoperabilidad Entidades Financieras
+	- [p01flcy15a5b768f4e1b67892647b872598502b9b4]: Pago electrónico
+		- [p01flcc15a663e97291d3a66f64c38b96615b7a468]: Dispositivos		- [p01flcr15a5b76fb2a1b67892668e5886af95dd97f]: Nucleo / API		- [p01flcg15a5b7793521b678926768ca0e96223ab39]: Pago		- [p01flcl15a5b7891e31b678926642ca518e8e73d7e]: Pago por cargo en cuenta (Notarios/Gestorias)		- [p01flce15a5b7975971b678926a073abdf842ec0e8]: Consulta de estado		- [p01flcr15a5b79e2f41b6789264abcc1f71d60c2c2]: Estadísticas de uso
+
+08:11:36.903 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the project hierarchy
+08:11:37.148 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc215bcebffb7b1abb53359ea0eea17fa9ca19]: Pago Electrónico
+		- [p01flci15bcec062b31abb5335402495f8e6e4085d]: Evolutivo Pago Móvil y Dispositivos
+			- [p01flcf15bcec0d4f11abb5335724f46c645a607bb]: Analisis			- [p01flc815bcec11f951abb53352925f9db6a1bf991]: Construcción			- [p01flch15bcec17b6e1abb5335bf339c1d8f8becd2]: Puesta en Marcha
+	- [p01flcn15b18fc91f81b3d938d49e0d46bce1200de]: Reingeniería de procesos en base a pago electrónico
+		- [p01flc915b18fd3a351b3d938d818bcb4a74c2aa75]: Ciclo de vida de tickets del comedor
+			- [p01flcz15b18fdb2dd1b3d938d2cdd00669bf67cde]: Análisis			- [p01flcr215b18fde7be1b3d938dd8d08462a60ed05]: Construcción núcleo			- [p01flci15b18fe3ba01b3d938d27eedbf3c2beba92]: Despliegue			- [p01flct15b18fe9aea1b3d938da5ba3a5232069091]: Interfaces de usuario web			- [p01flch15b18feec8b1b3d938d8b9fedd75f08e22f]: Dispositivos Móviles
+
+08:11:37.148 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the personal stuff hierarchy
+08:11:37.244 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc315a6a0263f11d2409ed2bdb79e373704d0b]: Baja / Ausencia
+	- [p01flca15a6a03e8041d2409edb1b0040bd24b5ca8]: Formación NO facturable
+	- [p01flce15a69fd65751d2409edafef4f539a6cd352]: Vacaciones 2016
+	- [p01flch15a6a00a4411d2409ed974f87d2ed45acd1]: Compensación de horas excedentes
+	- [p01flcj15a6a01f5741d2409edc4d979ef23f376a9]: Trabajo externo al ANS (no facturable)
+	- [p01flck15a6a0047611d2409edf6e931ef0391c0a4]: Propios de la empresa proveedora
+	- [p01flck15a6a04c90d1d2409edfbc23cb62124e5ae]: Formación facturable
+	- [p01flcn15a69fe85671d2409edafb7728af609e4c2]: Vacaciones 2017
+	- [p01flcti161d65ada11d3e3afb966d8a79dac9178e]: Vacaciones 2018
+
+08:11:37.245 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the service hierarchy
+08:11:37.469 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc015a4c07e8d91b67892669587f0d69d64b1f]: Evolución de la Infraestructura
+	- [p01flcbp15a4c06861b1b678926b7791d1c39fa5cf]: Consultoría
+		- [p01flcf15a5a9ba42b1b67892632cbfe5e4bb3085e]: Apoyo a la Oficina Técnica de EJIE		- [p01flcm15a5a9cbb781b6789262e6a3afe9e8d730d]: Consultoría Técnica		- [p01flcl15a5a9d98f61b6789265de3ae9a0e725a62]: Consultoría Funcional		- [p01flcu15a5a9e581a1b678926a6e7612663c533d3]: Iniciación de Proyectos
+	- [p01flch15a4c0594f51b67892635e2741b91d5e881]: Operación de Negocio
+		- [p01flc515a4c197d771b67892692c263fd04ff44aa]: Mantenimiento Correctivo		- [p01flca15a4c1b5c3a1b678926d2357cccd58c1256]: Soporte técnico a la infraestructura (2º nivel)		- [p01flcf15a4c1d10271b678926a794cff20d0f79c2]: Gestión y resolución de incidencias (CAU)		- [p01flcf15a4c1dc01f1b6789268bba484a96885b68]: Gestión de cambios y de la configuración
+			- [p01flc715a5ab90dfe1b678926a884018994ba9b19]: Gestión de peticiones de cambio (RFC's)			- [p01flct15a5aba15b31b678926cf114692918f959a]: Gestión de la configuración del producto			- [p01flcb15a5abb087d1b678926b59658089f809406]: Despliegues en entornos de explotación		- [p01flcp15a4c200b8e1b6789263a523f6ada89e7dd]: Participación en proyectos de infraestructura
+			- [p01flcx15a613565301bd7a1228bc3b6712f13625b]: PIF: Plataforma intercambio de ficheros			- [p01flcz15a5abcc55b1b678926510e3590ff7b6b79]: Plataforma de base (Sistema operativo, virtualización, etc)			- [p01flcc15a5ac92fdd1b678926e2df71c9acc6e97c]: Servidores Web			- [p01flcl15a5ac9ce161b6789264076d0090ab33a38]: Servidor de aplicaciones			- [p01flc315a5aca9d3f1b678926442615b4e186fe50]: Base de Datos		- [p01flcbf15a4c20f0961b678926d52550c29779c11]: Calidad
+			- [p01flcg15a5acdf3e81b678926b95f655a737d3656]: Pruebas Técnicas			- [p01flcu15a5aceab301b678926adc19c384c11a687]: Pruebas Funcionales			- [p01flc615a5acfbb4b1b678926c7c5a47a9ca99b3b]: Cargas / Migraciones de datos para mejora de la calidad de la información
+
+08:11:37.470 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the product hierarchy
+08:11:38.042 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc015a5b994f8b1b6789269b81b54310b765a7]: Entidades Financieras
+		- [p01flck15cc4f913a019d99a893c35bde1a8b7fd9e]: Bankia		- [p01flc315cc4faec5319d99a8922b92772aa145f89]: Bankoa		- [p01flcp15cc4fb5ffe19d99a89fe16039f27e2054d]: Banco Popular		- [p01flc715cc4fbe0a719d99a893edf8fa7ae04ca4c]: Caixabank		- [p01flcz15a5bcae9a11b678926f19a04db80f391bb]: BBVA
+			- [p01flc715a5bcf65ed1b6789265564a88b55a8d243]: Pago			- [p01flct15a5bcfc24b1b6789268c289e75a809eed0]: Cargo en cuenta			- [p01flcd15a5bd056fd1b6789269f355fe2cb92272c]: Consulta estado de pago			- [p01flcb15a5bd0be781b6789264b94732bc9bc72f7]: Titularidad de la cuenta corriente		- [p01flco15a5bcb8f941b678926d3f038ee8935d79d]: Laboral
+			- [p01flcy15a5bd210031b6789261ac1ef7acf54f422]: Pago			- [p01flca15a5bd26f981b678926702cc3c0b98bad6c]: Cargo en cuenta			- [p01flc815a5bd57b5a1b678926a6bea21a3efe2633]: Consulta estado de pago			- [p01flc415a5bd631f91b6789265bee490f0c53a312]: Titularidad de cuenta corriente		- [p01flc815a5bcbf75c1b6789262db6d3d5bf5bd7b0]: Kutxabank
+			- [p01flcq15a5bd6ee611b678926c85b48b7c20d45cb]: Pago			- [p01flcd515a5bd743621b678926f3b3ee137d0aa27]: Cargo en cuenta			- [p01flco15a5bd7ce831b678926bdc683d11463c46b]: Consulta estado de pago			- [p01flck15a5bd826211b678926e3eb926ea10da672]: Titularidad de cuenta corriente		- [p01flco15a5bcc68a81b6789266531b69014e91374]: Santander
+			- [p01flch15a5bd8baa11b678926e646e317b0cf9bc3]: Pago			- [p01flcc15a5bd919881b6789262013d266ae213190]: Cargo en cuenta			- [p01flcd15a5bd982781b67892657e0e351ad771aef]: Consulta estado de pago			- [p01flck15a5bd9e93b1b678926ba3180e8adcbc539]: Titularidad de cuenta corriente		- [p01flcy15a5bccc7eb1b678926722a02b19b434a89]: Sabadell-Gipuzkoano
+			- [p01flc015a5bda746b1b678926a34957fc425f7399]: Pago			- [p01flc615a5bdac9721b678926cd45e0300dc775ce]: Cargo en cuenta			- [p01flcn15a5bdb231c1b678926f36da4441bdaec50]: Consulta estado de pago			- [p01flcm15a5bdb92111b678926a0a5a74b41ba483c]: Titularidad de cuenta corriente		- [p01flco15a6673d1eb1d3a66f6e8ec8d3f56e37346]: Caja Rural de Navarra
+			- [p01flcb15a6677b87c1d3a66f61d14b73ced6441ae]: Pago			- [p01flcc15a6678fcd21d3a66f67bf70eea91e88df0]: Cargo en cuenta			- [p01flcn15a667a54731d3a66f622a52bfcbf88621d]: Consulta estado de pago			- [p01flci15a667b04831d3a66f649144976f03769ba]: Titularidad de cuenta corriente
+	- [p01flcd15a5bdc42371b67892669b543325bf44489]: Gestión de la Plataforma
+		- [p01flch15a5bdd5bf01b678926410a5e3131bc4c5e]: Framework común		- [p01flc715a5bddada31b678926e80405f302456b9c]: Gestión de usuarios/as
+			- [p01flc115a5be1273b1b678926158eaadef2f9a7ad]: Administración			- [p01flcu15a5be195ad1b6789265e63a9538467e957]: Login			- [p01flcx15a5be20c261b6789264c7ae764b3c94d28]: Notificación		- [p01flcb15a5bde48891b678926aab92c8eea63780e]: Configuración de Administraciones y sufijos		- [p01flct15a5bde95de1b67892640c435e8797a1583]: Configuración de Entidades Financieras		- [p01flcr15a5bdf48ae1b67892610a1755e7f65ac39]: Acceso a información de estadísticas de uso		- [p01flc715a5bdfdb4f1b678926e5494ae12ad43409]: Generación de liquidaciones		- [p01flch15a5be06b9b1b678926961127c67bb52c08]: Integración con Certificación de números de cuenta
+	- [p01flcg15a5b7de9641b678926a6f4835e7fa377ed]: Administraciones
+		- [p01flcj15a5b7f79af1b6789268530bdc43077b9e0]: Gobierno Vasco
+			- [p01flch15f52590ced5d24b581f78e15db65ec5386]: Cultura			- [p01flc915f0a53b8dc5d24b58160256ba202483156]: Sanidad			- [p01flc515c395344c1187c5e81ab1f158c2c177a89]: Industria			- [p01flck15c3953f9f7187c5e819196a36b3144c804]: HABE			- [p01flcx15c3954b83d187c5e81e6fdee67b4834abc]: Juventud			- [p01flcx15a5b802f121b6789268d6e9427878df4be]: Integración con backend SIPCA			- [p01flco15a5b80bc701b67892643b6aa6107f482ce]: IVAP			- [p01flc815a5b813fbe1b6789262eb735cbaf22658c]: Educación			- [p01flc915d55440e1419d99a8927c94c5339cb18f5]: Justicia			- [p01flc615d55446c5819d99a89fa955909b21e3bc0]: Turismo		- [p01flcl15cc50c4cd119d99a89bc1f78b17d756b49]: Osakidetza		- [p01flcy15f0a52aeeb5d24b5812438fc90441d12f0]: HAZI		- [p01flc215c39438123187c5e8174b12d5c5c2da102]: Biocruces		- [p01flcf15c39447962187c5e81b1b679d4e17afe6e]: Itzarri		- [p01flct15c816531e6187c5e81a65692a5c60b9aa6]: IZENPE		- [p01flcvb15a5b81f9951b6789263329844b87daec9]: Entidades locales de Araba
+			- [p01flct15c39517061187c5e81111e4b2de9140971]: Ayuntamiento de Vitoria-Gasteiz		- [p01flc815a5b827fb91b678926b994a2cae5cb98a8]: Entidades locales de Bizkaia
+			- [p01flcl15c394f4655187c5e81116c7d8a65f1f3ff]: Ayuntamiento de Bilbao		- [p01flclr15a5b82eabe1b6789264482b42798b4404]: Entidades locales de Gipuzkoa
+			- [p01flcv15c39504082187c5e814450e4b77ac4147d]: Ayuntamiento de Irun		- [p01flcr15a5b8355f71b678926b0b035c2b08abf15]: Diputación Foral de Bizkaia		- [p01flcu15a5b83f2ac1b67892617d8a61f5aa1b628]: Diputación Foral de Araba		- [p01flc315a5b8460571b67892646a434ec8174fbfd]: Diputación Foral de Gipuzkoa
+			- [p01flcp15c394c288e187c5e81f973d72a237dc841]: Lurraldebus		- [p01flcb15a5b84c7681b6789264128f84aaab705f0]: EHU / UPV		- [p01flcx15a5b8532051b6789267baddb73f11677bb]: Otras integraciones
+	- [p01flcm15a5b7a88191b678926f47842e6a1056be5]: Certificación de titularidad de números de cuenta
+		- [p01flcq15a5b7b1db41b6789268947027b2285baf5]: Nucleo / API		- [p01flcv15a5b7bedcb1b678926d18178de4c84e771]: Interfaz de usuario/a de consulta < gestión
+	- [p01flcm15a5b87c8711b678926d9d2f3f41b5275c4]: Interfaz de usuario/a de pago
+		- [p01flcgy15a5b9485c61b678926a04857bd301557d]: Cliente Web		- [p01flc015a5b94fc701b6789265936fdbffa130ae1]: Cliente Web responsive		- [p01flc415a5b95f7aa1b6789264c179b468ce567c4]: Pago en movilidad		- [p01flca15a5b9688ce1b678926f0fe064c43c8a1bb]: Pago en ventanilla para conceptos que no disponen de aplicación propia
+	- [p01flcx15aacfd119b1c906fbdad6cb5b456778828]: Platea Interoperabilidad Entidades Financieras
+	- [p01flcy15a5b768f4e1b67892647b872598502b9b4]: Pago electrónico
+		- [p01flcc15a663e97291d3a66f64c38b96615b7a468]: Dispositivos		- [p01flcr15a5b76fb2a1b67892668e5886af95dd97f]: Nucleo / API		- [p01flcg15a5b7793521b678926768ca0e96223ab39]: Pago		- [p01flcl15a5b7891e31b678926642ca518e8e73d7e]: Pago por cargo en cuenta (Notarios/Gestorias)		- [p01flce15a5b7975971b678926a073abdf842ec0e8]: Consulta de estado		- [p01flcr15a5b79e2f41b6789264abcc1f71d60c2c2]: Estadísticas de uso
+
+08:11:38.043 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the project hierarchy
+08:11:38.117 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc215bcebffb7b1abb53359ea0eea17fa9ca19]: Pago Electrónico
+		- [p01flci15bcec062b31abb5335402495f8e6e4085d]: Evolutivo Pago Móvil y Dispositivos
+			- [p01flcf15bcec0d4f11abb5335724f46c645a607bb]: Analisis			- [p01flc815bcec11f951abb53352925f9db6a1bf991]: Construcción			- [p01flch15bcec17b6e1abb5335bf339c1d8f8becd2]: Puesta en Marcha
+	- [p01flcn15b18fc91f81b3d938d49e0d46bce1200de]: Reingeniería de procesos en base a pago electrónico
+		- [p01flc915b18fd3a351b3d938d818bcb4a74c2aa75]: Ciclo de vida de tickets del comedor
+			- [p01flcz15b18fdb2dd1b3d938d2cdd00669bf67cde]: Análisis			- [p01flcr215b18fde7be1b3d938dd8d08462a60ed05]: Construcción núcleo			- [p01flci15b18fe3ba01b3d938d27eedbf3c2beba92]: Despliegue			- [p01flct15b18fe9aea1b3d938da5ba3a5232069091]: Interfaces de usuario web			- [p01flch15b18feec8b1b3d938d8b9fedd75f08e22f]: Dispositivos Móviles
+
+08:11:38.117 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - loading the personal stuff hierarchy
+08:11:38.179 [[ACTIVE] ExecuteThread: '3' for queue: 'weblogic.kernel.Default (self-tuning)'] - 	- [p01flc315a6a0263f11d2409ed2bdb79e373704d0b]: Baja / Ausencia
+	- [p01flca15a6a03e8041d2409edb1b0040bd24b5ca8]: Formación NO facturable
+	- [p01flce15a69fd65751d2409edafef4f539a6cd352]: Vacaciones 2016
+	- [p01flch15a6a00a4411d2409ed974f87d2ed45acd1]: Compensación de horas excedentes
+	- [p01flcj15a6a01f5741d2409edc4d979ef23f376a9]: Trabajo externo al ANS (no facturable)
+	- [p01flck15a6a0047611d2409edf6e931ef0391c0a4]: Propios de la empresa proveedora
+	- [p01flck15a6a04c90d1d2409edfbc23cb62124e5ae]: Formación facturable
+	- [p01flcn15a69fe85671d2409edafb7728af609e4c2]: Vacaciones 2017
+	- [p01flcti161d65ada11d3e3afb966d8a79dac9178e]: Vacaciones 2018
+
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 08:18:51:750 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 08:28:51 CEST 2018

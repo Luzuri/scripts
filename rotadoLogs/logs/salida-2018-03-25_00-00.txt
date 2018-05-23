@@ -1,0 +1,1782 @@
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 01:08:51:241 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 01:18:51 CET 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 01:18:51:167 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 01:28:51 CET 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 01:28:51:148 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 01:38:51 CET 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 01:38:51:163 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 01:48:51 CET 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 01:48:51:222 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 01:58:51 CET 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 01:58:51:134 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 03:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 03:08:51:245 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 03:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 03:18:51:178 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 03:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 03:28:51:245 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 03:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 03:38:51:133 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 03:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 03:48:51:155 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 03:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 03:58:51:186 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 04:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 04:08:51:334 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 04:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 04:18:51:158 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 04:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 04:28:51:599 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 04:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 04:38:51:202 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 04:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 04:48:51:248 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 04:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 04:58:51:222 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 05:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 05:08:51:163 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 05:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 05:18:51:218 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 05:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 05:28:51:186 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 05:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 05:38:51:133 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 05:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 05:48:51:213 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 05:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 05:58:51:162 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 06:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 06:08:51:292 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 06:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 06:18:51:270 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 06:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 06:28:51:328 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 06:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 06:38:51:271 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 06:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 06:48:51:137 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 06:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 06:58:51:272 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 07:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 07:08:51:215 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 07:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 07:18:51:328 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 07:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 07:28:51:369 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 07:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 07:38:51:287 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 07:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 07:48:51:251 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 07:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 07:58:51:220 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 08:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 08:08:51:297 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 08:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 08:18:51:268 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 08:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 08:28:51:391 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 08:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 08:38:51:265 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 08:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 08:48:51:296 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 08:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 08:58:51:294 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 09:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 09:08:51:279 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 09:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 09:18:51:285 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 09:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 09:28:51:283 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 09:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 09:38:51:307 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 09:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 09:48:51:203 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 09:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 09:58:51:326 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 10:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 10:08:51:256 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 10:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 10:18:51:320 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 10:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 10:28:51:276 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 10:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 10:38:51:545 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 10:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 10:48:51:307 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 10:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 10:58:51:252 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 11:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 11:08:51:411 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 11:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 11:18:51:303 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 11:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 11:28:51:416 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 11:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 11:38:51:280 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 11:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 11:48:51:318 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 11:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 11:58:51:303 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 12:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 12:08:51:393 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 12:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 12:18:51:233 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 12:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 12:28:51:286 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 12:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 12:38:51:313 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 12:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 12:48:51:358 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 12:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 12:58:51:407 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 13:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 13:08:51:318 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 13:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 13:18:51:406 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 13:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 13:28:51:439 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 13:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 13:38:51:339 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 13:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 13:48:51:284 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 13:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 13:58:51:243 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 14:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 14:08:51:478 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 14:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 14:18:51:335 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 14:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 14:28:51:354 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 14:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 14:38:51:317 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 14:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 14:48:51:393 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 14:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 14:58:51:341 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 15:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 15:08:51:280 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 15:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 15:18:51:334 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 15:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 15:28:51:343 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 15:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 15:38:51:406 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 15:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 15:48:51:453 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 15:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 15:58:51:321 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 16:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 16:08:51:329 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 16:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 16:18:51:303 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 16:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 16:28:51:316 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 16:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 16:38:51:297 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 16:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 16:48:51:321 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 16:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 16:58:51:401 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 17:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 17:08:51:393 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 17:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 17:18:51:380 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 17:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 17:28:51:345 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 17:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 17:38:51:401 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 17:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 17:48:51:437 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 17:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 17:58:51:360 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 18:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 18:08:51:389 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 18:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 18:18:51:454 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 18:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 18:28:51:441 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 18:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 18:38:51:556 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 18:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 18:48:51:321 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 18:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 18:58:51:418 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 19:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 19:08:51:416 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 19:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 19:18:51:488 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 19:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 19:28:51:392 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 19:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 19:38:51:352 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 19:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 19:48:51:432 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 19:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 19:58:51:364 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 20:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 20:08:51:411 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 20:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 20:18:51:416 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 20:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 20:28:51:998 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 20:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 20:38:51:357 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 20:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 20:48:51:433 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 20:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 20:58:51:324 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 21:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 21:08:51:459 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 21:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 21:18:51:425 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 21:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 21:28:51:548 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 21:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 21:38:51:606 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 21:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 21:48:51:444 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 21:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 21:58:51:550 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 22:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 22:08:51:675 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 22:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 22:18:51:385 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 22:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 22:28:51:406 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 22:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 22:38:51:445 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 22:48:51 CEST 2018
+<Mar 25, 2018 10:43:42 PM CEST> <Critical> <Health> <BEA-310003> <Free memory in the server is 2,994,304 bytes. There is danger of OutOfMemoryError> 
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 22:48:51:426 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 22:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 22:58:51:458 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 23:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 23:08:51:471 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 23:18:51 CEST 2018
+<Mar 25, 2018 11:17:42 PM CEST> <Critical> <Health> <BEA-310003> <Free memory in the server is 2,500,200 bytes. There is danger of OutOfMemoryError> 
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 23:18:53:312 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 23:28:53 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 23:28:51:442 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 23:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 23:38:51:360 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 23:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 23:48:51:506 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Sun Mar 25 23:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.25 - 23:58:51:395 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 00:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 00:08:51:403 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 00:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 00:18:51:583 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 00:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 00:28:51:580 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 00:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 00:38:51:510 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 00:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+00:45:13,571 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - Elapsed period: Sun Mar 25 00:45:12 CET 2018
+00:45:13,572 |-INFO in c.q.l.co.rolling.helper.RenameUtil - Renaming file [/datos/r01nt/log/r01nt_wl11_platea_internet_apps111.log] to [/datos/r01nt/log/rolled/r01nt_wl11_platea_internet_apps111_2018-03-25.log4807098095759039.tmp]
+00:45:13,575 |-INFO in ch.qos.logback.core.rolling.helper.Compressor - GZ compressing [/datos/r01nt/log/rolled/r01nt_wl11_platea_internet_apps111_2018-03-25.log4807098095759039.tmp] as [/datos/r01nt/log/rolled/r01nt_wl11_platea_internet_apps111_2018-03-25.log.gz]
+00:45:13,576 |-INFO in c.q.l.core.rolling.helper.TimeBasedArchiveRemover - deleting /datos/r01nt/log/rolled/r01nt_wl11_platea_internet_apps111_2018-03-15.log.gz
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 00:48:51:476 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 00:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 00:58:51:455 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 01:08:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 01:08:51:478 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 01:18:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 01:18:51:692 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 01:28:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 01:28:51:534 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 01:38:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 01:38:51:515 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 01:48:51 CEST 2018
+Reload HDFS contents families managed in HDFS Filesystem...
+java.lang.NullPointerException
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig._readConfigFile(R01PHDFSContentsConfig.java:172)
+	at com.ejie.r01p.utils.R01PHDFSContentsConfig.getFamiliesHDFSHandled(R01PHDFSContentsConfig.java:81)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadContentCMSFilesystem(R01NLoadContentServerConfigOnStartup.java:343)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup._loadConfigurations(R01NLoadContentServerConfigOnStartup.java:326)
+	at com.ejie.r01n.util.R01NLoadContentServerConfigOnStartup.handleNotification(R01NLoadContentServerConfigOnStartup.java:548)
+	at weblogic.management.timer.TimerListener$1.run(TimerListener.java:48)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerListener.deliverNotification(TimerListener.java:44)
+	at weblogic.management.timer.Timer.deliverNotifications(Timer.java:509)
+	at weblogic.management.timer.TimerNotification$1.run(TimerNotification.java:139)
+	at weblogic.security.acl.internal.AuthenticatedSubject.doAs(AuthenticatedSubject.java:321)
+	at weblogic.security.service.SecurityManager.runAs(SecurityManager.java:120)
+	at weblogic.management.timer.TimerNotification.timerExpired(TimerNotification.java:136)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:284)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:545)
+	at weblogic.work.ExecuteThread.execute(ExecuteThread.java:256)
+	at weblogic.work.ExecuteThread.run(ExecuteThread.java:221)
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 01:48:51:593 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 01:58:51 CEST 2018
+------
+------
+------
+FICHERO DE CONFIGURACION ESPECIFICO -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+n38i.exe.cache.N38ConstantesCache n38properties Específico -> /config/n38c/wl11_platea_internet/apps1/n38CacheCoherence.properties
+FICHERO DE CONFIGURACION COMUN -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+n38i.exe.cache.N38ConstantesCache n38properties Comun -> /coherence_services.3.5.3/cache_xlnets_desarrollo/config/n38CacheCoherence.2.properties
+2018.03.26 - 01:58:51:511 -  n38i.exe.cache.N38ConstantesCache utiliza properties comun
+Proximo refresco de n38i.exe.cache.N38ConstantesCache en -> 10 minutos -- en Mon Mar 26 02:08:51 CEST 2018

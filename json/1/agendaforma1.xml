@@ -1,0 +1,1551 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+<s:Body>
+<RetrieveSetResponse xmlns="http://www.exactsoftware.com/services/entities/">
+<RetrieveSetResult xmlns:a="http://www.exactsoftware.com/schemas/entities/" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<a:Entities>
+<a:EntityData>
+<a:EntityName>
+Resource
+</a:EntityName>
+<a:Properties>
+<a:PropertyData>
+<a:Name>
+Blocked
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:boolean" xmlns:b="http://www.w3.org/2001/XMLSchema">
+false
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AddressLine1
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+BELUNTZABIDEA 57 - 2º E
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AddressLine2
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AddressHouseNumber
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+57 - 2º E
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AdjustedHireDate
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Suffix
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ApplicationPhase
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AssistantFullName
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AssistantID
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AccountAddressID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+del|{32d258b9-6bb9-4f76-b563-6d96a3e1a5f0}@inv|{529e3bf9-5940-4103-b873-44b2189049cc}@pos|{8ec737ec-4bcf-41dc-beb2-e070b386be72}@vis|{3140a116-ec54-49c3-a496-87cacbb656ef}
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AccountContactID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+{0c71c5b5-1c2b-44e3-a5ad-50401ff13299}
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AccountID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+{186ae10d-843c-4b22-a31d-575c6978b414}
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ReferenceID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ReferenceType
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+BankAccount1
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+20953256301009336918
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+BirthDate
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:dateTime" xmlns:b="http://www.w3.org/2001/XMLSchema">
+1977-07-25T00:00:00
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+BirthPrefix
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+City
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+IZARRA
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Classification
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CreditorID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+{186ae10d-843c-4b22-a31d-575c6978b414}
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CompanyCode
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+534
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CompanyName
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+EJIE S.A.
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ContractEnd
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CostCenter
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+10441
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CostCenterDescription
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Ingeniería - Arquitectura
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CostUnit
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CostUnitDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CountryCode
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+ES
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CountryDescription
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Spain
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CreatedDate
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:dateTime" xmlns:b="http://www.w3.org/2001/XMLSchema">
+2005-11-15T16:54:31
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Creator
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+1788
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CreatorName
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Iker Ayerbe Majuelo
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CreditLine
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AccountPayable
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AccountPayableName
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+AccountPayableNumber
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Currency
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+CurrencyDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+DateFreeField1
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+DateFreeField2
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+DateFreeField3
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+DateFreeField4
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+DateFreeField5
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Discount
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+EmailPersonal
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+EmailWork
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+o-guadilla@ejie.eus
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+EmploymentEndDate
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+EmploymentStartDate
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:dateTime" xmlns:b="http://www.w3.org/2001/XMLSchema">
+2004-11-02T00:00:00
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhoneWorkExtension
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+TER
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Fax
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+FirstName
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+FTE
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:double" xmlns:b="http://www.w3.org/2001/XMLSchema">
+1
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+FullName
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Oscar Guadilla Jimenez
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Gender
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+HomePageURL
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+HRContractID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+{3933a077-b24b-4ff1-a4d1-09a072b15723}
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+318
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Initials
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+InternetURL
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ISPAccount
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+JobCategory
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+JobGroup
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+IE0304
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+SecurityLevel
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+10
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+JobTitle
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+IE0304-A6N6
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+JobTitleDescription
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+CONSULTOR/A DE SISTEMAS
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+JobTitleLevel
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+10
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Language
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+LanguageDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+LastName
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhysicalLocation
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+001904
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhysicalLocationDescription
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+E.J.I.E. (VITORIA)
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+MaidenName
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ContractLocation
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+GASTEIZ
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ContractLocationDescription
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Vitoria-Gasteiz
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ManagerFullName
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Iñaki Astorquia Martin
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ManagerID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+237
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ManagerJobTitle
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+IE0303-A6N8
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ManagerJobTitleDescription
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+JEFE DE SOPORTE SOFT
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ManagerUserID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+IASTORKI
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+MaritalState
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+MaritalStateDate
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+MessageIDPicture
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+MessageIDSignature
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+MiddleName
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ModifiedDate
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:dateTime" xmlns:b="http://www.w3.org/2001/XMLSchema">
+2018-03-12T00:01:17.3
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Modifier
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+1
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ModifierName
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Administrador Synergy
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+MsnID
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Nationality
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+NationalityDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+NumberFreeField1
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+NumberFreeField2
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+NumberFreeField3
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+NumberFreeField4
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:double" xmlns:b="http://www.w3.org/2001/XMLSchema">
+0
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+NumberFreeField5
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:double" xmlns:b="http://www.w3.org/2001/XMLSchema">
+0
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+OriginCountryCode
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+OriginCountryDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ParentID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+0
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ParentFullName
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Partner
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PaymentCondition
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PaymentConditionDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PaymentLimit
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:double" xmlns:b="http://www.w3.org/2001/XMLSchema">
+0
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PaymentMethod
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhonePersonal
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhoneWorkMobile
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+688671990
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhonePersonalMobile
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhoneWorkMobileExtension
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+3032
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PhoneWork
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+945017467
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PictureFilename
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+318.jpg
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PlaceOfBirth
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Postcode
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+01440
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Prefix
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PrepareDownloadPicture
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PrepareDownloadSignature
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PrevRating
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PurchaseCurrency
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+PurchaseLimit
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Qualifications
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+IE00181C
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Race
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Rating
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Room
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+IZQ
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+JobLevel
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+60
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+SecurityLevelChanged
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+SignatureFile
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+SkypeID
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+SocialSecurityNumber
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+State
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+01
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+StateDescription
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+Alava
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Status
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+A
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+SubordinatesCount
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+0
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+SynchronizeExchange
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:boolean" xmlns:b="http://www.w3.org/2001/XMLSchema">
+true
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Focus
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TextFreeField1
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TextFreeField2
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TextFreeField3
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TextFreeField4
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TextFreeField5
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TimeZoneDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TimeZone
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+Title
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+TitleDescription
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+ResourceType
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+E
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+UserID
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+OGUADILL
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+UserLicenseType
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+100
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+VacancyQuantity
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:int" xmlns:b="http://www.w3.org/2001/XMLSchema">
+1
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+VacancyStartDate
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+VacancyType
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:string" xmlns:b="http://www.w3.org/2001/XMLSchema">
+I
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+VatNumber
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+IPAddress
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+YesNoFreeField1
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+YesNoFreeField2
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+YesNoFreeField3
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+YesNoFreeField4
+</a:Name>
+<a:NoRights>
+false
+</a:NoRights>
+<a:Value i:type="b:boolean" xmlns:b="http://www.w3.org/2001/XMLSchema">
+false
+</a:Value>
+</a:PropertyData>
+<a:PropertyData>
+<a:Name>
+YesNoFreeField5
+</a:Name>
+<a:NoRights>
+true
+</a:NoRights>
+<a:Value i:nil="true"/>
+</a:PropertyData>
+</a:Properties>
+</a:EntityData>
+</a:Entities>
+<a:EntityName>
+Resource
+</a:EntityName>
+<a:SessionID>
+7686
+</a:SessionID>
+</RetrieveSetResult>
+</RetrieveSetResponse>
+</s:Body>
+</s:Envelope>
+
